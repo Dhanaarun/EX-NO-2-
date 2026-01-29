@@ -87,7 +87,7 @@ print("Decrypted:", decrypted)
 ```
 
 ## Output:
-[Screenshot 2026-01-29 144208.pdf](https://github.com/user-attachments/files/24932083/Screenshot.2026-01-29.144208.pdf)
+<img width="364" height="196" alt="Screenshot 2026-01-29 144208" src="https://github.com/user-attachments/assets/dd2a9290-8e8b-45c1-9e73-7ee1918908ec" />
 
 
 
