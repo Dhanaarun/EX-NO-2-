@@ -31,7 +31,7 @@ STEP-5: Display the obtained cipher text.
 
 
 
-Program:
+## Program:
 
 ```
 key = input("Key: ").upper().replace(" ", "")
@@ -86,12 +86,10 @@ decrypted = playfair(encrypted, "D")
 print("Decrypted:", decrypted)
 ```
 
-
-
-Output:
+## Output:
 
 <img width="381" height="213" alt="Screenshot 2026-01-29 142925" src="https://github.com/user-attachments/assets/f46c9b6d-cc4a-446b-bea9-c8436d6aeaa4" />
 
-Result :
+## Result :
 
 Thus the implementation of Playfair Substitution technique had been executed successfully.
